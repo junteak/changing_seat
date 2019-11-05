@@ -2,3 +2,5 @@
 .idea
 members.py
 SeatChange.py
+init_members.py
+change_seat.py
