@@ -1,7 +1,5 @@
 .venv
 .idea
-
-
 module_to_2nd_app.py
 2nd_app.py
 SeatChange.py

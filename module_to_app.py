@@ -29,3 +29,4 @@ def changing_seat(join_members):
     print('---左側の席(9~14)---')
     for i in range(8, 14):
         print(f'{i + 1}. {join_members[i]}')
+
